@@ -1,0 +1,5 @@
+[12-Dec-2017 06:51:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/sve/index.php on line 40
+[02-Apr-2018 04:52:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/sve/index.php on line 40
+[06-Nov-2018 05:00:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/sve/index.php on line 40
+[08-Sep-2019 04:55:18 Europe/Helsinki] PHP Notice:  Undefined index: name in /home/arkkiteh/public_html/peli/sve/sendScore.php on line 8
+[08-Sep-2019 04:55:18 Europe/Helsinki] PHP Notice:  Undefined index: tulos in /home/arkkiteh/public_html/peli/sve/sendScore.php on line 9
