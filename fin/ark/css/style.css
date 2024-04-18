@@ -1,0 +1,211 @@
+@media only screen and (max-device-width: 375px) {
+body {
+	line-height: 1;
+	font-family: 'Roboto Condensed', sans-serif;
+	background-image: url(../img/tausta2.png);
+	background-color: #ffffff;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+#frame, #frame2 {
+	max-width: 350px;
+	background: #E1CD00;
+	padding: 20px;
+	margin: 30px auto;
+	text-align: center;
+}
+
+#alaframe {
+	max-width: 350px;
+	background: #E1CD00;
+	padding: 20px;
+	margin: 10px auto;
+	text-align: center;
+}
+#tulokset {
+	max-width: 350px;
+	padding: 20px;
+	margin: 30px auto;
+	text-align: center;
+	background: #E1CD00;
+}
+th, td {
+	padding: 10px;
+	text-align: left;
+	font-size: 20px;
+}
+}
+
+@media screen and (min-device-width: 376px){
+body {
+	line-height: 1;
+	font-family: 'Roboto Condensed', sans-serif;
+	background-image: url(../img/tausta.png);
+	background-color: #ffffff;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+#frame, #frame2 {
+	max-width: 440px;
+	width: auto;
+	background: #E1CD00;
+	padding: 20px;
+	margin: 85px auto 10px;
+	text-align: center;
+}
+
+#alaframe {
+	max-width: 440px;
+	width: auto;
+	background: #E1CD00;
+	padding: 20px;
+	margin: 10px auto;
+	text-align: center;
+}
+#tulokset {
+	max-width: 440px;
+	width: auto;
+	padding: 20px;
+	margin: 85px auto 10px;
+	text-align: center;
+	background: #E1CD00;
+}
+th, td {
+	padding: 10px;
+	text-align: left;
+	font-size: 30px;
+}
+}
+
+img{
+	max-width: 100%;
+}
+
+p.vasen {
+	font-family: 'Roboto Condensed';
+	font-size: 16px;
+	text-align: left;
+}
+
+p {
+	font-family: 'Roboto Condensed';
+	font-size: 16px;
+}
+
+strong {
+	font-weight: 700;
+}
+
+h1 {
+	font-size: 26px;
+	color: #000000;
+	padding: 0;
+	width: auto;
+}
+
+h2 {
+	font-size: 24px;
+	color: #0B243B;
+	padding: 0;
+	margin: 20px 0;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+ol, ul {
+    list-style:none;
+}
+
+#pelibutton, #tulosbutton, #infobutton {
+	width: auto;
+	max-width: 300px;
+	border-radius: 20px;
+	font-size: 26px;
+	font-family: 'Roboto Condensed';
+	color: #000000;
+	background-color: #7B6DAE;
+}
+
+#takaisinbutton, #back {
+	width: auto;
+	max-width: 200px;
+	border-radius: 10px;
+	font-size: 16px;
+	font-family: 'Roboto Condensed';
+	background-color: #7B6DAE;
+}
+
+p.pager {
+    margin: 5px 0 5px 0;
+    color: #000000;
+}
+
+p.pager2 {
+	text-align: left;
+}
+
+#scoreboard {
+	border-collapse: collapse;
+	margin: 0 auto;
+	background-color: #ffffff;
+}
+
+#scoreboard, th, td {
+	border: 1px solid #ddd;
+}
+
+th {
+	height: 40px;
+	text-align: center;
+	color: black;
+	background-color: #7B6DAE;
+}
+
+td {
+	height: 40px;
+	vertical-align: bottom;
+}
+
+tr:hover {
+	background-color: #f5f5f5;
+}
+
+
+#choice-block {
+    display: block;
+    list-style: none;
+	max-width: 350px;
+    margin: 0;
+    padding: 0;
+}
+
+#submitbutton {
+    background: #7B6DAE;
+	width: 300px;
+}
+
+#teksti {
+    margin: 0 auto;
+    padding: 20px;
+    width: 75%;
+}
+
+.choice-box {
+    display: block;
+    text-align: center;
+	font-family: 'Roboto Condensed';
+	font-size: 16px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #666;
+	background-color: #fff;
+    cursor: pointer;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}

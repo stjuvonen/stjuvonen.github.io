@@ -1,0 +1,75 @@
+[12-Apr-2017 17:01:10 Europe/Helsinki] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[05-Oct-2017 07:21:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[05-Oct-2017 07:21:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[05-Oct-2017 07:21:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[14-Nov-2017 10:30:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[14-Nov-2017 10:32:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[10-Dec-2017 10:42:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[18-Dec-2017 09:06:21 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[11-Jan-2018 07:41:07 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[24-Jan-2018 05:47:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[15-Feb-2018 05:05:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[28-Mar-2018 04:40:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[10-Apr-2019 04:33:28 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[10-Apr-2019 04:33:28 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[10-Apr-2019 04:33:29 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[10-Jun-2019 15:08:31 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:05:44 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:05:44 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:05:44 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:05:44 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:05:45 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:05:45 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:06:06 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:06:06 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:06:06 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:06:07 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:06:07 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[16-Jul-2019 09:06:07 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[08-Sep-2019 05:01:24 Europe/Helsinki] PHP Notice:  Undefined index: name in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 8
+[08-Sep-2019 05:01:24 Europe/Helsinki] PHP Notice:  Undefined index: tulos in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 9
+[15-Mar-2020 22:44:04 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[15-Mar-2020 22:44:30 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[15-Mar-2020 22:44:31 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[15-Mar-2020 22:47:36 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[15-Mar-2020 22:47:48 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Mar-2020 22:32:35 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Mar-2020 22:32:49 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Mar-2020 22:33:48 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Mar-2020 22:34:18 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Mar-2020 22:34:25 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Mar-2020 22:34:49 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Mar-2020 22:38:30 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Mar-2020 22:39:06 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Mar-2020 22:39:18 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Mar-2020 22:39:46 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[02-Apr-2020 21:15:53 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[19-Apr-2020 01:23:23 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[19-Apr-2020 01:23:24 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[23-Apr-2020 09:43:05 Europe/Helsinki] PHP Notice:  Undefined index: name in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 8
+[23-Apr-2020 09:43:05 Europe/Helsinki] PHP Notice:  Undefined index: tulos in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 9
+[23-Apr-2020 19:17:40 Europe/Helsinki] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[23-Apr-2020 19:17:40 Europe/Helsinki] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/sendScore.php on line 2
+[13-May-2020 10:04:37 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[13-May-2020 10:05:00 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[13-May-2020 10:07:41 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[13-May-2020 10:08:20 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
+[25-May-2020 21:26:20 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/arkkiteh/public_html/peli/fin/index.php on line 40
