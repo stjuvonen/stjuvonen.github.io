@@ -9,13 +9,12 @@ r<!DOCTYPE html>
 <script src="fin/ark/js/jquery-1.12.2.min.js"></script>
 </head>
 <body>
-<h1 style="text-align: center; padding: 1em; background-color: white;">Arkkitehtuurimme vuosikymmenet -peli</h1>
 <script>
 $(document).ready(function () {
 		alku();
 
 	function alku(){
-		$(document.createElement('h1')).attr('id', 'h1').text('Arkkitehtuurimme vuosikymmenet').appendTo('#frame');
+		$(document.createElement('h1')).attr('id', 'h1').text('Arkkitehtuurimme vuosikymmenet - Den finska arkitekturens decennier').appendTo('#frame');
 		$(document.createElement('p')).addClass('choice-box').attr('id', 'pelibutton').text('SUOMEKSI').appendTo('#frame').click(function(){
 			window.location.href = 'fin';
 		});
