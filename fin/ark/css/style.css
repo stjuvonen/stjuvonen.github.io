@@ -102,8 +102,10 @@ strong {
 h1 {
 	font-size: 26px;
 	color: #000000;
-	padding: 0;
+	padding: 1em;
 	width: auto;
+	text-align: center;
+	backgroud-color: #ffffff;
 }
 
 h2 {
